@@ -9,4 +9,4 @@ This was done learning about the Fundamentals of Data Bases (Fundamentos de Base
 
 I realized there was a need to create a break between Employees and Book Stores and to adjust some VARCHAR lengths
 
-![BookStore](1stiteration.mwb)
+![BookStore](1st.png)
