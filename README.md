@@ -9,4 +9,12 @@ This was done learning about the Fundamentals of Data Bases (Fundamentos de Base
 
 I realized there was a need to create a break between Employees and Book Stores and to adjust some VARCHAR lengths
 
-![BookStore](1st.png)
+![1stIteration](1st.png)
+
+## Second Iteration
+
+Since one book can have availability in many stores and a book store is made of many books, I added a many-to-many cardinality. 
+There was no need to have the SSN number from a customer, so I erased it. 
+I consider is accurate to say Genre instead of Category. Table named "Categories" was changed to "Genres"
+
+![2ndIteration](2nd.png)
